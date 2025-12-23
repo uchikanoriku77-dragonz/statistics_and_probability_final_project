@@ -2,8 +2,8 @@
 
 ## 1. Informasi Penyusun
 
-- **Nama:** `I Gusti Agung Widi Adinatha`
-- **NIM:** `2515101110`
+- **Nama:** `Ricardo Razaq Alghivieri`
+- **NIM:** `2515101094`
 - **Program Studi:** `Ilmu Komputer`
 - **Mata Kuliah:** Statistika dan Probabilitas
 
