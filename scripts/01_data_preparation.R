@@ -32,7 +32,7 @@ library(tidyverse)
 
 tryCatch({
   # Ganti nama file di bawah ini
-  file_path <- "../data/kelahiran_kematian.csv"
+  file_path <- "../data/data_startup_saas.csv"
   data <- read_csv(file_path)
   
   # Pesan jika berhasil

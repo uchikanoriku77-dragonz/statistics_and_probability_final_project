@@ -29,8 +29,8 @@ if (!exists("data_bersih")) {
 # var_x <- "luas_bangunan"
 # var_y <- "harga_rumah"
 
-var_x <- "variabel_x" 
-var_y <- "variabel_y"
+var_x <- "Nilai_Pelanggan_Juta_IDR" 
+var_y <- "Pendapatan_Tahunan_Miliar_IDR"
 
 # Pastikan kolom yang dipilih ada di dalam data
 if(!var_x %in% names(data_bersih) || !var_y %in% names(data_bersih)) {
@@ -123,3 +123,4 @@ if (p_value <= 0.05) {
 
 # Pesan akhir
 print("Analisis korelasi selesai. Jangan lupa tulis interpretasi lengkap Anda di file README.md.")
+

@@ -13,5 +13,5 @@ Thumbs.db
 
 # Jangan unggah isi dari folder results secara default
 # Mahasiswa bisa hapus baris di bawah ini jika ingin mengunggah plot atau tabel spesifik
-results/*
-!results/placeholder.txt
+#results/*
+#!results/placeholder.txt
